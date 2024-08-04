@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1094,7 +1093,7 @@ MonoBehaviour:
   brickStack: []
   joystick: {fileID: 1922514451}
   moveSpeed: 10
-  defaultSpeed: 100
+  defaultSpeed: 10
   score: 0
 --- !u!4 &472438460 stripped
 Transform:
